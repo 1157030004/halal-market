@@ -4,7 +4,7 @@ import doetenv from "dotenv"
 import connectDB from "./config/db.js"
 import morgan from "morgan"
 import { notFound, errorHandler } from './middleware/errorMiddleware.js'
-
+import colors from "colors"
 import productRoutes from "./routes/productRoutes.js"
 import userRoutes from "./routes/userRoutes.js"
 import orderRoutes from "./routes/orderRoutes.js"
