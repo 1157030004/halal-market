@@ -1,0 +1,28 @@
+.order__container {
+    display: flex;
+    justify-content: space-around;
+    flex: 2;
+    padding: 10px;
+  }
+  
+  .order__left {
+    width: 50%;
+  }
+
+  .order__item{
+    border-bottom: 1px solid lightgray;
+  }
+  
+  .order__detail {
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+    border-bottom: 1px solid lightgray;
+  }
+  
+  .order__summary {
+    border-bottom: 1px solid lightgray;
+  }
+  

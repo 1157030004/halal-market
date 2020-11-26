@@ -1,0 +1,38 @@
+.cartScreen{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.cartScreen__left{
+    padding: 10px;
+
+}
+
+.cartScreen__leftList{
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid lightgray;
+
+}
+
+.cartScreen__items{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid lightgray;
+    
+}
+
+.cartScreen__item{
+    padding: 10px;
+}
+
+.cartScreen__right{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.cartScreen__right > h3{
+    font-weight: bolder;
+}

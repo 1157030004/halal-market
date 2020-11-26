@@ -1,0 +1,11 @@
+.carousel__container{
+    display: flex;
+    flex-direction: row;
+    flex-direction: column;
+    border: none;
+    max-width: 50%;
+}
+
+.carousel__item{
+    display: flex;
+}

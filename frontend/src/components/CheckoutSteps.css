@@ -1,0 +1,7 @@
+.stepper{
+    display: flex;
+}
+
+.step__stone{
+    text-transform: lowercase;
+}

@@ -1,0 +1,14 @@
+.homeScreen {
+  padding: 30px;
+  padding-left: 250px;
+  overflow-x: hidden;
+}
+.storeFront__row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.storeFront__col {
+  width: 30%;
+  height: 100%;
+}

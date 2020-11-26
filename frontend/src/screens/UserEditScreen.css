@@ -1,0 +1,13 @@
+.userEdit__container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.goback{
+    align-items: left;
+}
+
+.userEdit__form{
+ 
+}

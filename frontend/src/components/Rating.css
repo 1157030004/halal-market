@@ -1,0 +1,14 @@
+.rating {
+  display: flex;
+  align-items: center;
+  color: #f42e7ae0;
+}
+
+.rating p {
+  font-size: xx-small;
+}
+
+.review {
+  color: black;
+  padding: 5px;
+}

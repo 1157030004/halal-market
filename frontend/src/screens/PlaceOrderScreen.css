@@ -1,0 +1,23 @@
+.placeOrder__container {
+  display: flex;
+  justify-content: space-around;
+  flex: 2;
+  padding: 10px;
+}
+
+.placeOrder__left {
+  width: 50%;
+}
+
+.placeOrder__detail {
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+  border-bottom: 1px solid lightgray;
+}
+
+.placeOrder__summary {
+  border-bottom: 1px solid lightgray;
+}
